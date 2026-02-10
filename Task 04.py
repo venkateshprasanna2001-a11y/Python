@@ -1,0 +1,5 @@
+name = input("Enter componenet name: ")
+print("Compinent:" , name)
+diameter = input("Enter diameter: ")
+diameter = float(input("Enter diameter in mm: "))
+print("Diameter:" , diameter, "mm")
